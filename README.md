@@ -1,4 +1,4 @@
-# Chef Ken
+# Chez Ken
 Client Project - Phase 3, Week 1
 
 # Team
